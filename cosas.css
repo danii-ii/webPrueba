@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+.container-all{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+}
+
+.titulo{
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.container-all img{
+    width: 180px;
+    height: 180px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.finImg {
+    clear: both;
+}
+
+.container-all a{
+    padding: 55px;
+    float: inline-start;
+
+}
